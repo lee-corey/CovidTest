@@ -1,0 +1,87 @@
+{
+  "Corona19MediaDetails": [
+    {
+      "name": "Meditations",
+      "target": "Meditation-practices",
+      "type": "IYMenuNode"
+    },
+    {
+      "name": "Chants",
+      "target": "Chants-practices",
+      "type": "IYMenuNode"
+    }
+  ],
+
+  "Meditation-practices": [
+    {
+      "name": "Meditations",
+      "album_description": "Meditations",
+      "album_artist": "Master 1",
+      "target": [
+        {
+          "type": "audio",
+          "description": "",
+          "display_name": "Practice 1",
+          "path": "https://drive.google.com/u/0/uc?id=1djqbvWvIOCkKIzdW8c1LI7LTO1sMeaqN&export=download",
+          "thumbnail_path": "https://drive.google.com/file/d/15yVNKTFccu6I5TrWZHbRiXeoo5w8WcJ6/view?usp=sharing"
+        },
+        {
+          "type": "video",
+          "description": "",
+          "display_name": "Practice 2",
+          "path": "https://drive.google.com/u/0/uc?id=1DX-sPTZw2tE7HTcGDy0KF3fTI5npzS1t&export=download",
+          "thumbnail_path": "https://drive.google.com/file/d/15yVNKTFccu6I5TrWZHbRiXeoo5w8WcJ6/view?usp=sharing"
+        },
+        {
+          "type": "video",
+          "description": "",
+          "display_name": "Practice 3",
+          "path": "https://drive.google.com/u/0/uc?id=1djqbvWvIOCkKIzdW8c1LI7LTO1sMeaqN&export=download",
+          "thumbnail_path": "https://drive.google.com/file/d/15yVNKTFccu6I5TrWZHbRiXeoo5w8WcJ6/view?usp=sharing"
+        },
+        {
+          "type": "audio",
+          "description": "",
+          "display_name": "Practice 4",
+          "path": "https://drive.google.com/u/0/uc?id=1ac6ayhTyE3wbBQiwkvEpdyGzhKfX8JBk&export=download",
+          "thumbnail_path": "https://drive.google.com/file/d/15yVNKTFccu6I5TrWZHbRiXeoo5w8WcJ6/view?usp=sharing"
+        },
+        {
+          "type": "audio",
+          "description": "",
+          "display_name": "Practice 5",
+          "path": "https://drive.google.com/u/0/uc?id=1ac6ayhTyE3wbBQiwkvEpdyGzhKfX8JBk&export=download",
+          "thumbnail_path": "https://drive.google.com/file/d/1djqbvWvIOCkKIzdW8c1LI7LTO1sMeaqN/view?usp=sharing"
+        }
+      ],
+      "thumbnail_path": "https://drive.google.com/file/d/15yVNKTFccu6I5TrWZHbRiXeoo5w8WcJ6/view?usp=sharing",
+      "type": "DataNode"
+    }
+  ],
+
+  "Chants-practices": [
+    {
+      "name": "Chants",
+      "album_description": "Chants by Master 2",
+      "album_artist": "Master 2",
+      "target": [
+        {
+          "type": "video",
+          "description": "",
+          "display_name": "Chants 1",
+          "path": "https://drive.google.com/u/0/uc?id=1DX-sPTZw2tE7HTcGDy0KF3fTI5npzS1t&export=download",
+          "thumbnail_path": "ffw/images/corona-transparent.png"
+        },
+        {
+          "type": "video",
+          "description": "",
+          "display_name": "Chants 2",
+          "path": "https://drive.google.com/u/0/uc?id=1DX-sPTZw2tE7HTcGDy0KF3fTI5npzS1t&export=download",
+          "thumbnail_path": "ffw/images/corona-transparent.png"
+        }
+      ],
+      "thumbnail_path": "ffw/images/corona-transparent.png",
+      "type": "DataNode"
+    }
+  ]
+}

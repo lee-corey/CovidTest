@@ -1,0 +1,28 @@
+{
+  "Corona19MediaDetails": [
+    {
+      "name": "HomeAlbum",
+      "target": "Home-album",
+      "type": "IYMenuNode"
+    }
+  ],
+
+  "Home-album": [
+    {
+      "name": "Home-message",
+      "company": "Julian",
+      "album_description": " is honoured to present this yoga routine for the front line workers in the service of humanity",
+      "album_artist": "Master 1",
+      "target": [
+        {
+          "description": "In the fight against Corona, while the majority of people remain safe in their homes under lockdown, across the world thousands are active in the service of their nation and humanity",
+          "display_name": "Practice 1",
+          "path": "https://drive.google.com/u/0/uc?id=1ac6ayhTyE3wbBQiwkvEpdyGzhKfX8JBk&export=download",
+          "thumbnail_path": "ffw/images/corona-transparent.png"
+        }
+      ],
+      "thumbnail_path": "ffw/images/corona-transparent.png",
+      "type": "DataNode"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Corona19MediaDetails": [
+    {
+      "name": "HomeAlbum",
+      "target": "Home-album",
+      "type": "IYMenuNode"
+    }
+  ],
+
+  "Home-album": [
+    {
+      "name": "Home-message",
+      "company": "Julian",
+      "album_description": " es un honor presentar esta rutina de yoga para los trabajadores de primera línea al servicio de la humanidad",
+      "album_artist": "Master 1",
+      "target": [
+        {
+          "display_name": "Practice 1",
+          "path": "https://drive.google.com/u/0/uc?id=1ac6ayhTyE3wbBQiwkvEpdyGzhKfX8JBk&export=download",
+          "thumbnail_path": "ffw/images/corona-transparent.png",
+          "description": "En la lucha contra Corona, mientras la mayoría de las personas permanecen seguras en sus hogares bajo encierro, en todo el mundo miles están activos al servicio de su nación y humanidad."
+        }
+      ],
+      "thumbnail_path": "ffw/images/corona-transparent.png",
+      "type": "DataNode"
+    }
+  ]
+}
